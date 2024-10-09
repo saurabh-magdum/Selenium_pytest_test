@@ -28,3 +28,8 @@ selenium
 pip install -r requirements.txt
 
 This command will read the requirements.txt file and install the packages listed in it (in this case, pytest and selenium)
+
+# Output:
+
+![image](https://github.com/user-attachments/assets/84d3fe72-b2f6-4fe5-9109-c7de82d5fe59)
+
